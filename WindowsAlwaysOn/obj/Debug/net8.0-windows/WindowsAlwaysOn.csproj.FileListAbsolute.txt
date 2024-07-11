@@ -1,0 +1,16 @@
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\bin\Debug\net8.0-windows\WindowsAlwaysOn.exe
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\bin\Debug\net8.0-windows\WindowsAlwaysOn.deps.json
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\bin\Debug\net8.0-windows\WindowsAlwaysOn.runtimeconfig.json
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\bin\Debug\net8.0-windows\WindowsAlwaysOn.dll
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\bin\Debug\net8.0-windows\WindowsAlwaysOn.pdb
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\obj\Debug\net8.0-windows\WindowsAlwaysOn.csproj.GenerateResource.cache
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\obj\Debug\net8.0-windows\WindowsAlwaysOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\obj\Debug\net8.0-windows\WindowsAlwaysOn.AssemblyInfoInputs.cache
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\obj\Debug\net8.0-windows\WindowsAlwaysOn.AssemblyInfo.cs
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\obj\Debug\net8.0-windows\WindowsAlwaysOn.csproj.CoreCompileInputs.cache
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\obj\Debug\net8.0-windows\WindowsAlwaysOn.dll
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\obj\Debug\net8.0-windows\refint\WindowsAlwaysOn.dll
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\obj\Debug\net8.0-windows\WindowsAlwaysOn.pdb
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\obj\Debug\net8.0-windows\WindowsAlwaysOn.genruntimeconfig.cache
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\obj\Debug\net8.0-windows\ref\WindowsAlwaysOn.dll
+C:\Users\serpe\Documents\Visual Studio Projects\WindowsAlwaysOn\WindowsAlwaysOn\obj\Debug\net8.0-windows\WindowsAlwaysOn.Properties.Resources.resources
